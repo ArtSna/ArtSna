@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**TakuiasH/TakuiasH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Arthur a developer and curious about how things work.
 
-Here are some ideas to get you started:
+### Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 I started my programmer life with C# because of Unity 3D and now I program in several other languages (Mainly the Java language)
+
+### Some Skills
+
+* Languages: Java, JavaScript, HTML, CSS, PHP and C#.
+* Frameworks/Libs: Laravel, Lumen, Spigot/Bukkit and more...
+* Databases: SQLLite and MySQL.
+* Other: Nginx, Pterodactyl and more...
+
+[![github-stats]](https://github.com/TakuiasH)
+
+<!-- Config -->
+
+[github-stats]: https://github-readme-stats.vercel.app/api?username=TakuiasH
+[github]: https://github.com/TakuiasH
