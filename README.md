@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Arthur a developer and curious about how things work.
+I'm Arthur, a developer and curious about how things work.
 
 ### Interests
 
