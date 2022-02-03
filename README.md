@@ -9,8 +9,8 @@ I'm Arthur a developer and curious about how things work.
 ### Some Skills
 
 * Languages: Java, PHP, C#, HTML, CSS and JavaScript.
-* Frameworks/Libs: Laravel, Lumen, Spigot/Bukkit and more...
-* Databases: SQLLite and MySQL.
+* Frameworks/Libs: Laravel, Spigot/Bukkit and more...
+* Databases: SQLite and MySQL.
 * Other: Nginx, Pterodactyl, Ubuntu and more...
 
 [![github-stats]](https://github.com/TakuiasH)
