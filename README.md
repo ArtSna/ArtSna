@@ -6,12 +6,12 @@ I'm Arthur, a developer and curious about how things work.
 
 - 💬 I started my programmer life with C# because of Unity 3D and now I program in several other languages (Mainly the Java and the NodeJS language)
 
-### Some Skills
+### Some Skills:
 
-* Languages: Java, NodeJS, PHP and C#
-* Frameworks/Libs: Laravel, Spigot/Bukkit and more...
+* Main Languages: Java, PHP, C#, HTML, CSS, Javascript and Go.
+* Frameworks/Libs: Spigot/Bukkit, Quarkus, NestJS, Laravel and more...
 * Databases: SQLite, PostgreSQL and MySQL.
-* Other: Nginx, Pterodactyl, Ubuntu and more...
+* Other: Nginx, Pterodactyl, Ubuntu. Kafka and more...
 
 ##
 
